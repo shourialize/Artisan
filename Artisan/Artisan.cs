@@ -234,7 +234,7 @@ public unsafe class Artisan : IDalamudPlugin
 
         LuminaSheets.Dispose();
 
-        if (!DalamudInfo.IsOnStaging())
+       /* if (!DalamudInfo.IsOnStaging())
         {
             CraftingListContextMenu.Dispose();
             UniversalsisClient.Dispose();
@@ -250,7 +250,7 @@ public unsafe class Artisan : IDalamudPlugin
         ECommonsMain.Dispose();
         P = null!;
     }
-
+*/
     private void OnCommand(string command, string args)
     {
         var subcommands = args.Split(' ');
