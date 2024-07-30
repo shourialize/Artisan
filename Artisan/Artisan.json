@@ -1,6 +1,6 @@
 {
   "Author": "Taurenkey (Puni.sh)",
-  "Name": "Artisan",
+  "Name": "Artisan2",
   "Punchline": "A 'simple' crafting plugin.",
   "Description": "The all-in-one crafting plugin.",
   "InternalName": "Artisan",
@@ -10,7 +10,7 @@
     "crafting"
   ],
   "Changelog": "",
-  "RepoUrl": "https://github.com/PunishXIV/Artisan",
+  "RepoUrl": "https://github.com/shourialize/Artisan",
   "DalamudApiLevel": 10,
   "DownloadLinkTesting" : "https://love.puni.sh/plugins/Artisan/Testing/latest.zip"
 }
